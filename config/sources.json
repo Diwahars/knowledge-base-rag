@@ -1,0 +1,59 @@
+{
+  "sources": {
+    "medium": {
+      "enabled": true,
+      "tags": [
+        "artificial-intelligence",
+        "machine-learning",
+        "rag",
+        "Forward Deployed Engineer"
+      ]
+    },
+    "devto": {
+      "enabled": true,
+      "tags": [
+        "ai",
+        "python",
+        "machinelearning"
+      ],
+      "per_page": 100
+    },
+    "substack": {
+      "enabled": true,
+      "tags": [
+        "ai",
+        "agent",
+        "llm",
+        "fde",
+        "Forward Deployed Engineer"
+      ],
+      "feeds": [
+        "https://priyankavergadia.substack.com/feed",
+        "https://aishwaryasrinivasan.substack.com/feed",
+        "https://llmsresearch.substack.com/feed"
+      ],
+      "note": "Replace with a publication RSS feed. Tag matching is best-effort."
+    },
+    "faun": {
+      "enabled": true,
+      "tags": [
+        "engineering"
+      ],
+      "feeds": [
+        "https://faun.pub/feed"
+      ],
+      "note": "Feed availability and tag coverage may vary; verify the feed URL."
+    },
+    "generic": {
+      "enabled": true,
+      "tags": [
+        "technology",
+        "agent"
+      ],
+      "feeds": [
+        "https://blog.bytebytego.com/feed.xml"
+      ],
+      "note": "Add RSS or Atom feed URLs for other websites."
+    }
+  }
+}
